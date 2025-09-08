@@ -27,7 +27,8 @@ This project automates Excel data handling tasks using **Python (pandas & openpy
 ```
 ├── Project_01.ipynb   # Jupyter Notebook with the full code
 ├── WS1.xlsx           # Input Excel file 1
-├── WS2.xlsx           # Input Excel file 2 (processed and updated)
+├── WS2.xlsx           # Input Excel file 2 
+├── Output_File_WS2    # Output Excel file (processed and updated)
 ```
 
 ---
